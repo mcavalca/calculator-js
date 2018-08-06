@@ -2,3 +2,20 @@ input {
     margin-top: 10px;
     margin-right: 10px;
 }
+
+.calculator {
+    background-color: #999999;
+    text-align: center;
+}
+
+#sumButton, #minusButton, #timesButton, #divideButton {
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+}
+
+.buttons {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
